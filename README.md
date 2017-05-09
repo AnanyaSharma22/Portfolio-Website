@@ -1,7 +1,7 @@
 # Portfolio-Website
 A Responsive portfolio website fits both mobile and PC devices.
 
-**Technologies Used**
+# Technologies Used
 
 - HTML
 - CSS
